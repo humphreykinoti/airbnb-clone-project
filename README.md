@@ -77,3 +77,22 @@ The Airbnb Clone project relies on a relational database structure to manage use
 - A **Review** is written by a **User** and linked to one **Property**
 
 ---
+
+## Feature Breakdown
+
+### User Management  
+This feature handles user registration, login, and profile management. It ensures secure authentication and enables users to act as either guests or hosts within the platform.
+
+### Property Management  
+Hosts can create, update, and delete property listings. This module allows properties to be described with details such as title, location, pricing, and availability.
+
+### Booking System  
+Guests can view available properties and make reservations for specific dates. This feature handles booking creation, modifications, and status tracking (e.g., confirmed, canceled).
+
+### Payment Processing  
+Integrates a secure method to handle payments for bookings. It manages transaction records, payment statuses, and ensures booking confirmations are tied to successful payments.
+
+### Review System  
+Enables guests to leave reviews and ratings for properties they’ve stayed in. This helps improve trust and transparency on the platform by highlighting user experiences.
+
+---
