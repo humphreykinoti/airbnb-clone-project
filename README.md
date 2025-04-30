@@ -16,3 +16,15 @@ The Airbnb Clone Project is a backend system that replicates core Airbnb feature
 | QA Engineer        | Functional and performance testing                                               |
 
 ---
+
+## Technology Stack
+- **Django**: Web framework for backend services
+- **Django REST Framework**: API development
+- **GraphQL**: Flexible API queries
+- **PostgreSQL**: Relational database
+- **Celery**: Asynchronous task handling
+- **Redis**: Caching and session management
+- **Docker**: Containerized environment
+- **CI/CD Pipelines**: Automated testing and deployment
+
+---
