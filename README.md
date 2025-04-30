@@ -120,3 +120,16 @@ Payment processing will use trusted third-party services with tokenized transact
 
 ---
 
+## CI/CD Pipeline
+
+CI/CD (Continuous Integration and Continuous Deployment) pipelines automate the process of building, testing, and deploying code changes. They help catch bugs early, ensure consistent environments, and enable faster, more reliable releases. For the Airbnb Clone project, CI/CD is crucial in maintaining code quality and streamlining the development workflow. The tools that can be used are:
+
+**CI/CD Orchestration Platforms:**
+- **GitHub Actions** – Integrated directly into GitHub for automation.
+- **GitLab CI/CD** – Comes with GitLab and offers rich CI/CD capabilities.
+- **Jenkins** – Highly customizable and open-source, but more complex to set up.
+
+**Containerization & Deployment Tools:**
+- **Docker** – Packages your app and its dependencies into containers.
+- **Docker Compose** – Manages multi-container environments.
+- **Kubernetes** – Manages container orchestration for scalable deployments.
